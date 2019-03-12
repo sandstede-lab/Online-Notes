@@ -10,4 +10,4 @@ This repository contains online notes written by [Bjorn Sandstede](http://www.da
 
 * __Spatial dynamics__: Contains an overview of spatial dynamics with applications to essential instabilities
 
-* __Travelling waves__: Contains an outline of existence and stability properties of travelling-wave solutions of reaction-diffusion systemns on the real line
+* __Travelling waves__: Contains an outline of existence and stability properties of travelling-wave solutions of reaction-diffusion systems on the real line
