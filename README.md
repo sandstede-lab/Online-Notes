@@ -1,6 +1,6 @@
 # Online Notes
 
-This repository contains online notes written by [Bjorn Sandstede](http://www.dam.brown.edu/people/sandsted/).
+This repository contains online notes written by [Bjorn Sandstede](http://bjornsandstede.com).
 
 * __Absolute spectra__: Gives a brief overview of spectra of PDE operators on large bounded interval and their limit as the interval length goes to infinity
 
